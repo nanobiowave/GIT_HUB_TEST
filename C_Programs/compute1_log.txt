@@ -1,0 +1,13 @@
+------------------------------------------------------- 
+        Filename: compute1_log.txt:                     
+------------------------------------------------------- 
+Enter five integer numbers.                             
+Add all five integers to compute sum.                   
+Divide sum by five to compute average.                  
+Print the sum and average results to compute1_log.txt.  
+------------------------------------------------------- 
+Enter five integers seperated by a space: 
+a = 546 b = 355 c = 345 d = 354 e = 354 
+The sum of the five integers is: 1954
+The average of the five integers is: 390
+------------------------------------------------------- 
