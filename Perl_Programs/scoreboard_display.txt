@@ -1,0 +1,12 @@
+
+Weight = 225 lbs 
+
+1 Mile Time = 15 Min 31 Sec 
+2 Mile Time = 30 Min 32 Sec 
+3 Mile Time = 45 Min 33 Sec 
+4 Mile Time = 60 Min 34 Sec 
+5 Mile Time = 75 Min 35 Sec 
+
+5K Time = 50 Min 37 Sec 
+10K Time = 100 Min 38 Sec 
+
